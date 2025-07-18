@@ -20,7 +20,7 @@ To uncover key insights that drive profitability and identify areas of high reve
 - Tables and Binders had poor profitability even with high sales, indicating potential over-discounting.
 - Average discount and profit margins varied widely across states and sub-categories.
 
-## View the live interactive dashboard here:
+## 🔗 View the live interactive dashboard here:
 https://public.tableau.com/app/profile/aurelius.githaka/viz/SampleSuperstoreDataAnalysis_17528559096460/Dashboard
 
 ## 🐍 How to Run the Code
